@@ -1,4 +1,4 @@
-# Efficient-PyTorch
+# Loading large dataset in Pytorch with LMDB
 My best practice of training large dataset using PyTorch.
 
 # Speed overview
